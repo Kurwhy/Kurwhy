@@ -139,7 +139,7 @@ A collection of personal, academic, and collaborative projects demonstrating my 
 
 <img src="https://streak-stats.demolab.com?user=Kurwhy&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="155" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kurwhy&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=false" height="155" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kurwhy&show_icons=true&theme=vue-dark&hide_border=false" height="155" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kurwhy&locale=en&layout=compact&card_width=320&langs_count=8&theme=vue-dark&hide_border=false" height="155" alt="Top Languages" />
 
