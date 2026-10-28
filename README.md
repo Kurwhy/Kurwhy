@@ -80,7 +80,6 @@ A collection of personal, academic, and collaborative projects demonstrating my 
 | 💰 **Whylet — Personal Finance Manager** | Personal finance web application featuring multi-wallet management, income and expense tracking, transfers, spending limits, financial reports, and smart transaction input. | React.js, Node.js, Express.js, Prisma, MySQL, Tailwind CSS | [View Project](https://github.com/Kurwhy/whylet-finance) |
 | 💙 **WCare — Bullying Reporting & Support** | Collaborative web application for bullying incident reporting and psychological support, featuring role-based access and communication between users and psychologists. | Laravel, PHP, MySQL, JavaScript | [View Project](https://github.com/mddhafa/wcare) |
 | 📚 **Platform Pembelajaran** | Collaborative web-based learning platform developed using Laravel, exploring the development of an educational information system. | Laravel, PHP, MySQL, Tailwind CSS | [View Project](https://github.com/rafiazharr17/platform-pembelajaran) |
-| ✅ **Web-Based Todo Application** | Academic Laravel project focusing on task management, web application structure, and database-driven development. | Laravel, PHP, MySQL | [View Project](https://github.com/PWF-2025-B/20220140040-Todo) |
 
 ### 📱 Android & Mobile Development
 
