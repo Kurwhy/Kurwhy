@@ -23,7 +23,7 @@
 
 I'm **Wahyu Firmansyah**, an **Information Technology graduate** from **Universitas Muhammadiyah Yogyakarta (UMY)**, Indonesia, with a **GPA of 3.53/4.00**.
 
-I'm a passionate **Full Stack Web Developer** with hands-on experience designing, building, and maintaining web applications using technologies such as **Laravel, React.js, Node.js, Express.js, and MySQL**.
+I'm a passionate **Full Stack Web Developer** with hands-on experience designing, building, and maintaining web applications using technologies such as **Laravel, React.js, Next.js, Node.js, Express.js, TypeScript, MySQL, and PostgreSQL**.
 
 My interests lie in backend engineering, RESTful API development, database architecture, and creating intuitive digital experiences. Through personal, academic, and collaborative projects, I've gained practical experience developing web applications that address real-world needs.
 
@@ -40,13 +40,13 @@ My interests lie in backend engineering, RESTful API development, database archi
 
 ### 💻 Programming Languages
 
-![Languages](https://skillicons.dev/icons?i=php,js,python,java,kotlin,dart)
+![Languages](https://skillicons.dev/icons?i=php,js,ts,python,java,kotlin,dart)
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎨 Frontend Development
 
-![Frontend](https://skillicons.dev/icons?i=html,css,react,vite,tailwind,bootstrap)
+![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap)
 
 ### ⚙️ Backend & API Development
 
@@ -62,6 +62,8 @@ My interests lie in backend engineering, RESTful API development, database archi
 
 ![Database](https://skillicons.dev/icons?i=mysql,postgres,prisma,sqlite)
 
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+
 ### 🔧 Development Tools
 
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,androidstudio)
@@ -76,6 +78,10 @@ A collection of personal, academic, and collaborative projects demonstrating my 
 
 | Project | Description | Tech Stack | Repository |
 |---|---|---|---|
+| 🛒 **TokoEbil — E-Commerce Platform** | Full-stack e-commerce web application built with Next.js App Router, featuring Auth.js v5 authentication, Zustand state management, Zod validation, Midtrans payments, RajaOngkir Komerce shipping integration, and Vercel Blob storage. | Next.js 15, React 19, TypeScript, Tailwind CSS v4, shadcn/ui, PostgreSQL, Drizzle ORM, Auth.js v5, Zustand, Zod, Midtrans, RajaOngkir Komerce, Vercel Blob | [View Project](https://github.com/Kurwhy/TokoEbil) |
+| ⛺ **TrailTrack — Mountain Gear Rental** | Outdoor equipment rental platform featuring date-based gear reservations, TanStack Query data fetching, JWT authentication, Zod validation, Midtrans Snap payments, and Framer Motion animations. | React 18, TypeScript, Vite, Tailwind CSS, React Router v6, Node.js, Express.js, MySQL 8, Drizzle ORM, TanStack Query, JWT, Zod, Midtrans Snap, Framer Motion | [View Project](https://github.com/Kurwhy/TrailTrack) |
+| 📋 **KurFlow — Project Management & Kanban** | Real-time collaborative project management and Kanban board featuring fractional indexing task ranking, drag-and-drop cards, OAuth/session auth, and live updates. | PHP 8.3, Laravel 11, React 18, TypeScript, Inertia.js 2, Vite, Tailwind CSS 3, Radix UI, MySQL 8, Laravel Breeze, Socialite, Laravel Reverb, Laravel Echo, Pusher.js, dnd-kit | [View Project](https://github.com/Kurwhy/KurFlow) |
+| ☕ **Kovita Roastery — Point of Sales (POS)** | Cafe and roastery Point-of-Sale web application featuring Sanctum-protected endpoints, Zustand state management, Axios requests, and Midtrans Core API payment processing. | Laravel 11.57, PHP 8.2+, React 18.3, TypeScript, Vite 5.4, Tailwind CSS 3.4, React Router 6, Zustand, Axios, MySQL 8, Laravel Sanctum, Midtrans Core API | [View Project](https://github.com/Kurwhy/KovitaRoastery) |
 | 💊 **Vitamed POS — Pharmacy Management System** | Web-based pharmacy point-of-sale and inventory management platform featuring FEFO batch expiration tracking, prescription management, low-stock alerts, and sales analytics. | React.js, Tailwind CSS, Laravel, PHP, MySQL | [View Project](https://github.com/Kurwhy/vita-farma) |
 | 🏠 **Vitana Residence — Boarding House Booking Platform** | Web-based boarding house management and online reservation platform featuring Midtrans payment integration, tenant dashboards, automated WhatsApp/Gmail notifications, and complaint tracking. | React.js, Tailwind CSS, Laravel, PHP, MySQL | [View Project](https://github.com/Kurwhy/Vitana-Residence) |
 | 🛍️ **Roupaa Apparel** | Custom apparel ordering and production management platform featuring order tracking, design approval, customer chat, inventory management, Midtrans payments, and AI-assisted design ideas. | Laravel, PHP, MySQL, JavaScript, Bootstrap | [View Project](https://github.com/Kurwhy/roupaa_apparel_final) |
@@ -117,6 +123,7 @@ A collection of personal, academic, and collaborative projects demonstrating my 
 | **PHP with MySQL: Build 7 PHP and MySQL Projects** | Udemy | August 2026 |
 | **Dasar Microsoft Excel Administrasi Perkantoran** | YEC Yureka Edukasi Cipta | October 2026 |
 | **Data Analyst untuk Persiapan Sertifikasi BNSP** | YEC Yureka Edukasi Cipta | October 2026 |
+| **SQL for Data Analysis, Hands-on industry skills for analysts** | Udemy | November 2026 |
 
 <details>
 <summary><b>View Credential Details</b></summary>
@@ -129,6 +136,7 @@ A collection of personal, academic, and collaborative projects demonstrating my 
 | Udemy — PHP with MySQL | `UC-5485153f-9ea4-4f27-acb7-be1356fe2736` |
 | YEC — Microsoft Excel | `00174698` |
 | YEC — Data Analyst Preparation | `00174699` |
+| Udemy — SQL for Data Analysis, Hands-on industry skills for analysts | `UC-015536d9-e019-4951-896e-b8e2534fca4d` |
 
 </details>
 
